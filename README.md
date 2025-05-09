@@ -25,6 +25,7 @@ I'm a 15-year-old developer from Albania, currently living in Germany. I'm passi
 
 - **Python**: Diving deeper into network automation and security scripting.
 - **Network Engineering & Security**: Studying protocols, VPNs, and ethical hacking fundamentals.
+- **Fun fact:** I build custom Minecraft plugins in Java for friends and community servers.
 
 ---
 
