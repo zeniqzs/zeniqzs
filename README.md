@@ -32,7 +32,7 @@ I'm a 15-year-old developer from Albania, currently living in Germany. I'm passi
 
 - **Minecraft Plugins**: Developed several custom plugins in Java to enhance multiplayer experiences.
 
-Feel free to check out my [Repositories](https://github.com/yourusername?tab=repositories) for code samples and demos!
+Feel free to check out my [Repositories](https://github.com/zeniqzs?tab=repositories) for code samples and demos!
 
 ---
 
