@@ -46,7 +46,3 @@ Feel free to check out my [Repositories](https://github.com/yourusername?tab=rep
 > "Learning never exhausts the mind." – Leonardo da Vinci
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="profile views" />
-</p>
